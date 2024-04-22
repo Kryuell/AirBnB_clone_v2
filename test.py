@@ -34,3 +34,4 @@ cursor.execute("FLUSH PRIVILEGES")
 cursor.close()
 db.close()
 
+
